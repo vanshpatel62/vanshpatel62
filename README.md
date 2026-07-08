@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development & AI/ML**
 - 💬 Ask me about **Django, React, Node.js, Python, SQL, and Data Analysis**
-- 📫 How to reach me **patelvanshkamaleshbhi@gmail.com**
+- 📫 How to reach me **patelvansh25526@gmail.com**
 - ⚡ Fun fact: *I believe coffee and code go hand in hand ☕💻*
 
 ---
